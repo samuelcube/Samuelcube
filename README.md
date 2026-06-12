@@ -7,8 +7,7 @@ Welcome to my GitHub! I'm a full-stack developer passionate about building innov
 ## 🚀 About Me
 
 - 💻 Full-stack developer with experience in **Python**, **Ruby**, and modern web technologies
-- 🎓 Interested in diverse areas: from group management tools to community-driven projects
-- 🌐 Active in the **World Cube Association** community, contributing to open-source initiatives
+- 🎓 Interested the **World Cube Association** community, contributing to open-source initiatives
 - 🔍 Detail-oriented problem solver who loves optimizing workflows and building tools that scale
 - 🤝 Collaborative developer who values clean code and great documentation
 
